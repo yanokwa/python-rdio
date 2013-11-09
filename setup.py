@@ -17,5 +17,5 @@ setup(
     url='http://github.com/kreeger/python-rdio',
     packages=find_packages(),
     long_description=read('README'),
-    install_requires=['oauth2>=1.5.167', 'python-dateutil==2.0'],
+    install_requires=['oauth2>=1.5.167', 'python-dateutil>=2.0'],
 )
